@@ -1,0 +1,13 @@
+.homepage-main_header h1 {
+    @media (min-width:768px) {
+        font-size: 40px;
+    }
+
+    @media (min-width: 992px) {
+        
+    }
+}
+
+.homepage-who_am_i h2 {
+    font-size: 30px
+}
